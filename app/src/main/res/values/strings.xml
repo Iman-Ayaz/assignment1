@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment1_InstagramClone</string>
+    <string name="your_name_nyour_bio_goes_here_nyoursite_com">Your Name\nYour bio goes here...\nyourSite.com</string>
+    <string name="username">username</string>
+    <string name="_250">250</string>
+    <string name="posts">Posts</string>
+    <string name="_300">300</string>
+    <string name="followers">Followers</string>
+    <string name="_400">400</string>
+    <string name="following">Following</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>
